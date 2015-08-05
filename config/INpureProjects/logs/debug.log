@@ -1,0 +1,82 @@
+Script handler ready. Waiting for a while to ensure all other mods are done messing with NEI.
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Engine: JAVASCRIPT
+Setting up Java Library...
+Setting up FML Library...
+Setting up NEI Library...
+Setting up CreativeTab library...
+Found creative tab: aroma1997core:creativetab
+Found creative tab: Automagy
+Found creative tab: tools
+Found creative tab: Botania
+Found creative tab: buildingBlocks
+Found creative tab: decorations
+Found creative tab: extratic.parts
+Found creative tab: extratic.blocks
+Found creative tab: extratic.items
+Found creative tab: extratic.buckets
+Found creative tab: extraUtil
+Found creative tab: combat
+Found creative tab: extraUtil_FMP
+Found creative tab: forbidden
+Found creative tab: mobcrystal
+Found creative tab: Hardcore Questing Mode
+Found creative tab: misc
+Found creative tab: jabba
+Found creative tab: nodalmechanics.tab
+Found creative tab: RefinedRelocation
+Found creative tab: steves_production
+Found creative tab: storageDrawers
+Found creative tab: storageDrawersSorting
+Found creative tab: TConstructBlocks
+Found creative tab: TConstructWeaponry
+Found creative tab: TConstructParts
+Found creative tab: TConstructTools
+Found creative tab: TConstructMaterials
+Found creative tab: redstone
+Found creative tab: food
+Found creative tab: TConstructEquipables
+Found creative tab: thaumcraft
+Found creative tab: thaumichorizons
+Found creative tab: ThaumicTinkerer
+Found creative tab: brewing
+Found creative tab: materials
+Found creative tab: travellersgear
+Found creative tab: witchinggadgets
+Found creative tab: aobd
+Found creative tab: transportation
+Found creative tab: nhwrench
+Found creative tab: PATab
+Found creative tab: search
+Setting up ForgeMicroblock Library...
+Setting up ExtraUtilities Library...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: #vanilla.js
+Loading: ThermalExpansion.js
+Loading: Mekanism.js
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: TConstruct:GlassBlock.StainedClear_1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, TConstruct:GlassBlock.StainedClear_1
+Loading: ExtraUtilities.js
+override called. Params: ExtraUtilities, drum, 0,1
+Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
+Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
+getRandomMaterial called. Returned: TConstruct:GlassBlock.StainedClear_14
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, TConstruct:GlassBlock.StainedClear_14
+Loading: BuildCraft.js
+Loading: Bibliocraft.js
+Loading: AppliedEnergistics2.js
+Loading: Tcon.js
+override called. Params: TConstruct, tool*, 0
+Regex match found! TConstruct:tool* matches TConstruct:toolRod.
+Regex match found! TConstruct:tool* matches TConstruct:toolShard.
+Found ItemStack TConstruct:toolRod. 64xitem.tconstruct.ToolRod@0
+Found ItemStack TConstruct:toolShard. 64xitem.tconstruct.ToolShard@0
+override called. Params: TConstruct, binding, 0
+Regex match found! TConstruct:binding matches TConstruct:binding.
+Found ItemStack TConstruct:binding. 64xitem.tconstruct.Binding@0
+override called. Params: TConstruct, scytheBlade, 0
+Regex match found! TConstruct:scytheBlade matches TConstruct:scytheBlade.
+Found ItemStack TConstruct:scytheBlade. 64xitem.tconstruct.ScytheHead@0
+Loading: MFR.js
