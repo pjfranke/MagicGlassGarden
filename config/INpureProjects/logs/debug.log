@@ -56,14 +56,14 @@ Loading: #vanilla.js
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: TConstruct:GlassBlock.StainedClear_1
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, TConstruct:GlassBlock.StainedClear_1
+getRandomMaterial called. Returned: TConstruct:GlassBlock.StainedClear_8
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, TConstruct:GlassBlock.StainedClear_8
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: TConstruct:GlassBlock.StainedClear_14
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, TConstruct:GlassBlock.StainedClear_14
+getRandomMaterial called. Returned: TConstruct:GlassBlock.StainedClear_6
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, TConstruct:GlassBlock.StainedClear_6
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
 Loading: AppliedEnergistics2.js

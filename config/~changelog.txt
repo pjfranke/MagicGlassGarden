@@ -1,0 +1,46 @@
+Added:
+
+-CharcoalBlock
+
+Updated:
+
+-AOBD
+-Extra Utilities
+-Mantle
+-NEI Integration
+-NHave's OmniWrench 2
+-Progressive Automation
+-Schematica
+-Sodacan Torches
+-Tinkers Construct
+-Travelers Gear
+
+Made optional:
+
+-Schematica
+
+Config Changes:
+
+-Generic
+
+	*Cleaned up extra files from tested mods, logs
+
+-Treecapitator
+	* shearLeaves set to true
+	* shearVines set to true
+	
+-HQM
+
+	* Change Slime quest to Magma Cube
+	* Modify uncompletable Thaumcraft quest
+	* Add Thaumcraft quest for Crimson Rites
+	* Update text on various quests
+	
+-Extra Utilities
+
+	--no more RF!--
+	* Disable EnderThermic Pump
+	* Disable Quarry
+	* Disable Energy Transfer node recipe
+	* Disable Hyper-Energy Transfer node recipe
+	* Disable Energy pipe recipe
